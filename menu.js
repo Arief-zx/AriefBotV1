@@ -4,6 +4,8 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 *${tampilTanggal}* 
 *${tampilWaktu}* 
 
+*Info: Bot Masuk Grup Hubungi Owner*
+
 「 *LIST MENU* 」
 
 「 Arief Bot 」
@@ -12,7 +14,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├ https://chat.whatsapp.com/LKscZqYmD8O97GsVllg8nh
+├ https://chat.whatsapp.com/E6LjxLZ0kMWHBU5Y1UhOEv
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
