@@ -40,7 +40,7 @@ Lalu clone repo
 ```
 Lanjutkan dengan
 ```bash
-> bash install.sh
+> bash instal.sh
 ```
 Jika mengalami error, lakukan perintah manual berikut :
 ```bash
