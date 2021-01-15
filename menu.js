@@ -6,13 +6,13 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 
 「 *LIST MENU* 」
 
-「 VVIPINDO BOT 」
+「 Arief Bot 」
 
 ╭════•›「 ${BotName} 」
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├https://chat.whatsapp.com/LKscZqYmD8O97GsVllg8nh
+├ https://chat.whatsapp.com/LKscZqYmD8O97GsVllg8nh
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
@@ -26,6 +26,8 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├ _Membuka grup_
 ├≽️ *.Closegc*
 ├ _Menutup grup_
+├≽️ *.antilink*
+├_Kick Yang Sharelink_
 ╰═══════════════
 
 ╭════•›「 Game 」
@@ -58,7 +60,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Namae*
 ├ _Ex = .Namae Arief_
 ├≽️ *.Alay*
-├ _Ex = .Alay Hai Arief_
+├ _Ex = .Alay hai Arief_
 ├≽️ *.Puisi1*
 ├≽️ *.Puisi2*
 ├≽️ *.Puisi3*
@@ -98,7 +100,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Ocr*
 ├ _Mencopy kalimat di gambar_
 ├≽️ *.Stalk (username ig)*
-├ _Ex = .Stalk @arief_
+├ _Ex = .Stalk @Arief_
 ├≽️ *.Shortlink (link)*
 ├ _Shorter link_
 ╰═══════════════
@@ -119,7 +121,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Wp*
 ├ _Random wallpaper_
 ├≽️ *.Img (nama yang dicari)*
-├ _Ex = .Img Arief_
+├ _Ex = .Img iqbal_
 ├≽️ *.Meme*
 ├ _Random foto lucu_
 ├≽️ *.bucin*
