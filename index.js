@@ -15,8 +15,8 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'Arief Bot'; 
-const instagram = '@arieff_westa'; 
+const BotName = 'ARIEF BOT'; 
+const instagram = 'arieff_westa'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
@@ -1328,7 +1328,7 @@ if (messageType === MessageType.text)
       }
 
    };
-//GroupArief-Bot
+//GroupVVIPBOT
 if (text.includes('.Group')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, {quoted: m});
 }
@@ -1337,7 +1337,7 @@ if (messageType === MessageType.text)
       let is = m.message.conversation.toLocaleLowerCase()
       if (is == '.Group')
       {
-         fetch('https://chat.whatsapp.com/E6LjxLZ0kMWHBU5Y1UhOEv')
+         fetch('https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj')
             .then(res => res.text())
             .then(body =>
             {
