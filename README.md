@@ -1,9 +1,8 @@
 <div align="center">
-     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
+     <h3> ARIEF BOT V1 </h3>
 
 # Hai 👋🏻
 
-Re-upload numpang ganti nama gabakal bikin lu pro
 </div>
 
 
@@ -40,7 +39,7 @@ Lalu clone repo
 ```
 Lanjutkan dengan
 ```bash
-> bash instal.sh
+> bash install.sh
 ```
 Jika mengalami error, lakukan perintah manual berikut :
 ```bash
