@@ -1,3 +1,5 @@
+exports.menu =>
+{
 return `
 *「 LIST MENU 」*
 
@@ -110,3 +112,4 @@ return `
 @arieff_westa`
 
 }
+exports.menu = menu
