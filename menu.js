@@ -1,10 +1,8 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, aktif) => {
-	return ` 
-*${tampilTanggal}* 
+	return ` *${tampilTanggal}* 
 *${tampilWaktu}* 
 
 「 *LIST MENU* 」
-
 ╭════•» *「 ${BotName} 」*
 ├≽️ *.menu*
 ├≽️ *.owner*
