@@ -15,7 +15,7 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'ARIWF BOT V1'; 
+const BotName = 'ARIEF BOT'; 
 const instagram = '@arieff_westa'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
@@ -334,7 +334,7 @@ conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.tex
 if (text.includes('.tagme')) {
  var nomor = m.participant
  const options = {
-       text: `@${nomor.split("@s.whatsapp.net")[0]} Hai kak 🤗`,
+       text: `@${nomor.split("@s.whatsapp.net")[0]} Hai kak 👋🏻`,
        contextInfo: { mentionedJid: [nomor] }
  }
  conn.sendMessage(id, options, MessageType.text)
@@ -394,7 +394,7 @@ conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.tex
 if (text.includes('.ytmp3')){
 const teks = text.replace(/.ytmp3 /, "")
 axios.get(`https://st4rz.herokuapp.com/api/yta?url=${teks}`).then((res) => {
-    conn.sendMessage(id, '[ WAIT ] Mendownload...⏳ silahkan tunggu', MessageType.text, { quoted: m } )
+    conn.sendMessage(id, '[ WAIT ] Mendownload...⏳ silahkan tunggu engga lama kaya dia kok', MessageType.text, { quoted: m } )
     let hasil = `Klik link dan download hasilnya\n*Judul* : ${res.data.title}\n*Ukuran video* : ${res.data.filesize}\n*Format* : MP3\n*Link* : ${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text, { quoted: m } );
 })
@@ -1328,7 +1328,7 @@ if (messageType === MessageType.text)
       }
 
    };
-//GroupVVIPBOT
+//GroupAriefBot
 if (text.includes('.Group')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, {quoted: m});
 }
@@ -1450,7 +1450,7 @@ Silakan pilih :
 
 
 }
-//Hay Bro 
-//create @arieff_westa don't delate this please
+//Hay Bro
+//create @arieff_westa don't delete this please
 	
 })
