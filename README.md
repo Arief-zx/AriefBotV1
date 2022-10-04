@@ -1,5 +1,5 @@
 <div align="center">
-     <h3> ARIEF BOT V1 </h3>
+     <h3> ZxCode Bot </h3>
 
 # Hai 👋🏻
 
@@ -34,8 +34,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/Arief-zx/Arief-Bot
-> cd Arief-Bot
+> git clone https://github.com/Arief-zx/zxbot
+> cd zxbot
 ```
 Lanjutkan dengan
 ```bash
