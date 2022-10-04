@@ -34,8 +34,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/Arief-zx/zxbot
-> cd zxbot
+> git clone https://github.com/Arief-zx/AriefBotV1
+> cd AriefBotV1
 ```
 Lanjutkan dengan
 ```bash
