@@ -15,13 +15,13 @@ const menu = require("./lib/menu.js")
 
 const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
-const BotName = 'ARIEF BOT'; 
+const BotName = 'ZxCode Bot'; 
 const instagram = '@arieff_westa'; 
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Arief Westa\n' // Nama kamu
-            + 'ORG:Arief Bot;\n' // Nama bot
+            + 'ORG:ZxCode Bot;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=62895600555028:+62 895-6005-55028\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
